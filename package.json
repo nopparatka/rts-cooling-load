@@ -1,0 +1,38 @@
+{
+  "name": "rts-cooling-load",
+  "version": "2.0.0",
+  "description": "Open-source JavaScript engine implementing the ASHRAE Radiant Time Series (RTS) method for nonresidential cooling load calculation (ASHRAE Handbook—Fundamentals, Chapter 18).",
+  "main": "rts-cooling-load.js",
+  "files": [
+    "rts-cooling-load.js",
+    "LICENSE",
+    "README.md",
+    "CITATION.cff",
+    "docs/",
+    "examples/",
+    "test/"
+  ],
+  "scripts": {
+    "test": "node test/regression.js",
+    "example": "node examples/basic_usage.js"
+  },
+  "keywords": [
+    "ashrae",
+    "rts",
+    "radiant-time-series",
+    "cooling-load",
+    "hvac",
+    "heat-transfer",
+    "building-simulation",
+    "psychrometrics"
+  ],
+  "author": "Nopparat Katkhaw, Rachaneewan Aungkurabrut (School of Engineering, University of Phayao, Thailand), Sorrawich Suksabay (MECH CODE ROBOTECH Co., Ltd., Chiang Mai, Thailand)",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/nopparatka/rts-cooling-load"
+  },
+  "engines": {
+    "node": ">=14"
+  }
+}

@@ -1,0 +1,39 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+title: "RTS Cooling Load: An Open-Source JavaScript Engine Implementing the ASHRAE Radiant Time Series Method"
+version: 2.0.0
+date-released: 2026-09-17
+license: MIT
+repository-code: "https://github.com/nopparatka/rts-cooling-load"
+authors:
+  - family-names: Katkhaw
+    given-names: Nopparat
+    affiliation: "School of Engineering, University of Phayao, Thailand"
+    email: nopparat.ka@up.ac.th
+  - family-names: Aungkurabrut
+    given-names: Rachaneewan
+    affiliation: "School of Engineering, University of Phayao, Thailand"
+    email: rachaneewan.ch@up.ac.th
+  - family-names: Suksabay
+    given-names: Sorrawich
+    affiliation: "MECH CODE ROBOTECH Co., Ltd., Chiang Mai, Thailand"
+    email: sorravichsuk@gmail.com
+keywords:
+  - ASHRAE
+  - "radiant time series"
+  - "cooling load"
+  - HVAC
+  - "building simulation"
+  - psychrometrics
+preferred-citation:
+  type: article
+  title: "RTS Cooling Load: An Open-Source JavaScript Engine Implementing the ASHRAE Radiant Time Series Method"
+  authors:
+    - family-names: Katkhaw
+      given-names: Nopparat
+    - family-names: Aungkurabrut
+      given-names: Rachaneewan
+    - family-names: Suksabay
+      given-names: Sorrawich
+  journal: SoftwareX
+  year: 2026
